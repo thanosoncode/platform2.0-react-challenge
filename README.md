@@ -2,7 +2,7 @@
 
 ## CatLover
 
-I re-visited the Catlover challenge (that initially was part of my hiring process for gwi) six months after being working with the gwi team 🤘&#10084; in order to further practice and see if anything changed <br /><br/>
+I re-visited the Catlover challenge (that initially was part of my hiring process for gwi) six months after being working with the gwi team 🤘 in order to further practice and see if anything changed <br /><br/>
 I created the react project from scratch in order to learn working with Webpack, Babel and other different technologies that React uses.
 
 ## Live Version
